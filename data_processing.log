@@ -1,48 +1,35 @@
-2026-03-20 10:53:41,138 - INFO - 🚀 Начало обработки данных...
-2026-03-20 10:53:41,142 - INFO - ✅ Загружено 50 строк из CSV
-2026-03-20 10:53:41,147 - INFO - 📊 Удалено дубликатов: 0
-2026-03-20 10:53:41,148 - INFO - 📊 Осталось валидных строк: 50
-2026-03-20 10:53:41,149 - INFO - 📊 После конвертации типов: 50 строк
-2026-03-20 10:53:41,158 - INFO - ✅ Сводка сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
-2026-03-20 10:53:41,163 - INFO - ✅ База данных сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
-2026-03-20 10:53:41,166 - INFO - ✅ Обработка завершена успешно!
-2026-03-20 11:00:02,595 - INFO - 🚀 Начало обработки данных...
-2026-03-20 11:00:02,597 - INFO - ✅ Загружено 50 строк из CSV
-2026-03-20 11:00:02,597 - INFO - 📊 Удалено дубликатов: 0
-2026-03-20 11:00:02,598 - INFO - 📊 Осталось валидных строк: 50
-2026-03-20 11:00:02,598 - INFO - 📊 После конвертации типов: 50 строк
-2026-03-20 11:00:02,602 - INFO - ✅ Сводка сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
-2026-03-20 11:00:02,605 - INFO - ✅ База данных сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
-2026-03-20 11:00:02,607 - INFO - ✅ Обработка завершена успешно!
-2026-03-20 11:00:26,124 - INFO - 🚀 Начало обработки данных...
-2026-03-20 11:00:26,127 - INFO - ✅ Загружено 50 строк из CSV
-2026-03-20 11:00:26,130 - INFO - 📊 Удалено дубликатов: 0
-2026-03-20 11:00:26,131 - INFO - 📊 Осталось валидных строк: 50
-2026-03-20 11:00:26,132 - INFO - 📊 После конвертации типов: 50 строк
-2026-03-20 11:00:26,138 - INFO - ✅ Сводка сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
-2026-03-20 11:00:26,143 - INFO - ✅ База данных сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
-2026-03-20 11:00:26,145 - INFO - ✅ Обработка завершена успешно!
-2026-03-20 11:19:38,227 - INFO - 🚀 Начало обработки данных...
-2026-03-20 11:19:38,232 - INFO - ✅ Загружено 50 строк из CSV
-2026-03-20 11:19:38,236 - INFO - 📊 Удалено дубликатов: 0
-2026-03-20 11:19:38,236 - INFO - 📊 Осталось валидных строк: 50
-2026-03-20 11:19:38,237 - INFO - 📊 После конвертации типов: 50 строк
-2026-03-20 11:19:38,246 - INFO - ✅ Сводка сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
-2026-03-20 11:19:38,252 - INFO - ✅ База данных сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
-2026-03-20 11:19:38,254 - INFO - ✅ Обработка завершена успешно!
-2026-03-20 11:41:48,253 - INFO - 🚀 Начало обработки данных...
-2026-03-20 11:41:48,257 - INFO - ✅ Загружено 50 строк из CSV
-2026-03-20 11:41:48,261 - INFO - 📊 Удалено дубликатов: 0
-2026-03-20 11:41:48,262 - INFO - 📊 Осталось валидных строк: 50
-2026-03-20 11:41:48,262 - INFO - 📊 После конвертации типов: 50 строк
-2026-03-20 11:41:48,269 - INFO - ✅ Сводка сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
-2026-03-20 11:41:48,274 - INFO - ✅ База данных сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
-2026-03-20 11:41:48,277 - INFO - ✅ Обработка завершена успешно!
-2026-03-20 11:42:09,446 - INFO - 🚀 Начало обработки данных...
-2026-03-20 11:42:09,448 - INFO - ✅ Загружено 50 строк из CSV
-2026-03-20 11:42:09,448 - INFO - 📊 Удалено дубликатов: 0
-2026-03-20 11:42:09,449 - INFO - 📊 Осталось валидных строк: 50
-2026-03-20 11:42:09,449 - INFO - 📊 После конвертации типов: 50 строк
-2026-03-20 11:42:09,453 - INFO - ✅ Сводка сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
-2026-03-20 11:42:09,456 - INFO - ✅ База данных сохранена в: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
-2026-03-20 11:42:09,458 - INFO - ✅ Обработка завершена успешно!
+2026-03-20 10:53:41,138 - INFO - Data processing started...
+2026-03-20 10:53:41,142 - INFO - Successfully loaded 50 rows from CSV
+2026-03-20 10:53:41,147 - INFO - Removed duplicates: 0
+2026-03-20 10:53:41,148 - INFO - Valid rows remaining: 50
+2026-03-20 10:53:41,149 - INFO - Type conversion completed: 50 rows
+2026-03-20 10:53:41,158 - INFO - Output file saved to: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
+2026-03-20 10:53:41,163 - INFO - Database saved to: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
+2026-03-20 10:53:41,164 - INFO - Data processing completed successfully!
+2026-03-20 11:08:02,595 - INFO - Data processing started...
+2026-03-20 11:08:02,597 - INFO - Successfully loaded 50 rows from CSV
+2026-03-20 11:08:02,597 - INFO - Removed duplicates: 0
+2026-03-20 11:08:02,598 - INFO - Valid rows remaining: 50
+2026-03-20 11:08:02,598 - INFO - Type conversion completed: 50 rows
+2026-03-20 11:08:02,682 - INFO - Output file saved to: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
+2026-03-20 11:08:02,605 - INFO - Database saved to: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
+2026-03-20 11:08:02,607 - INFO - Data processing completed successfully!
+2026-03-20 11:08:26,124 - INFO - Data processing started...
+2026-03-20 11:08:26,127 - INFO - Successfully loaded 50 rows from CSV
+2026-03-20 11:08:26,130 - INFO - Removed duplicates: 0
+2026-03-20 11:08:26,131 - INFO - Valid rows remaining: 50
+2026-03-20 11:08:26,132 - INFO - Type conversion completed: 50 rows
+2026-03-20 11:08:26,138 - INFO - Output file saved to: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
+2026-03-20 11:08:26,143 - INFO - Database saved to: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
+2026-03-20 11:08:26,145 - INFO - Data processing completed successfully!
+2026-03-20 11:19:38,227 - INFO - Data processing started...
+2026-03-20 11:19:38,232 - INFO - Successfully loaded 50 rows from CSV
+2026-03-20 11:19:38,236 - INFO - Removed duplicates: 0
+2026-03-20 11:19:38,236 - INFO - Type conversion completed: 50 rows
+2026-03-20 11:19:38,237 - INFO - Output file saved to: /Users/chatul/Desktop/Data Ibgineer/Data/summary_by_pathogen.csv
+2026-03-20 11:19:38,252 - INFO - Database saved to: /Users/chatul/Desktop/Data Ibgineer/Data/pandemic_data.db
+2026-03-20 11:19:38,254 - INFO - Data processing completed successfully!
+2026-03-20 11:41:48,253 - INFO - Data processing started...
+2026-03-20 11:41:48,257 - INFO - Successfully loaded 50 rows from CSV
+2026-03-20 11:41:48,261 - INFO - Removed duplicates: 0
+2026-03-20 11:41:48,262 - INFO - Valid rows remaining: 50
